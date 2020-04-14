@@ -8,3 +8,7 @@
 #include <ADC.h>
 #include <msp430.h>
 
+void ADC_Init()
+{
+
+}
